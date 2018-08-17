@@ -3,7 +3,6 @@ package demo01_练习_打印季节;
 import java.util.Scanner;
 //可爱的标记的23
 //我是主线
-//我是分支
 public class Demo {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
